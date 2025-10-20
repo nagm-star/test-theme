@@ -1,0 +1,25 @@
+{
+    "name": "Test theme",
+    "slug": "test-theme",
+    "version": "1.0.0",
+    "description": "Debitis qui suscipit",
+    "category": "education",
+    "author": {
+        "name": "Your Name",
+        "email": "your.email@example.com",
+        "url": "https:\/\/yourwebsite.com"
+    },
+    "license": "GPL",
+    "tags": [],
+    "price": 999,
+    "features": {
+        "responsive": true,
+        "mobile_optimized": true,
+        "seo_ready": true,
+        "customizable": true
+    },
+    "requirements": {
+        "php_version": ">=8.0",
+        "platform_version": ">=1.0.0"
+    }
+}
